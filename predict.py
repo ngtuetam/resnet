@@ -19,7 +19,7 @@ def predict(image):
     # args = parser.parse_args()
     
     class_names_path = "class_names.pkl"
-    model_path = "best_model.h5"
+    model_path = "checkpoints/best_model.h5"
 
     # print('Predict using ResNet model for test file path {0}'.format(args.test_file_path)) # fix
     print('Predict using ResNet') # fix

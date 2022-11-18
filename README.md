@@ -1,1 +1,1 @@
-# trash_detection
+# resnet
